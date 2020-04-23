@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Spear
+  - CheckPoint
+  - Portal
+  - Enemy
+  - Weapon
+  - CameraPoint
+  - Coin
+  - Health
+  - Timer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Weapon
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PostProcessing
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 605868395
+    locked: 0
+  - name: TrapSpear
+    uniqueID: 4159195213
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
